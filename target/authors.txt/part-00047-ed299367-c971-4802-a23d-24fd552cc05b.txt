@@ -1,0 +1,4 @@
+Key: openstreetmap.hu, Value: 2
+Key: robbert.haneveld@rijnmond.politie.nl, Value: 2
+Key: Helsingin kaupungin tarkastusvirasto, Value: 1
+Key: Korkeasaaren el�intarha, Value: 1

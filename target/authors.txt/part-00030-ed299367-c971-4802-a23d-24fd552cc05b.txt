@@ -1,0 +1,3 @@
+Key: ik�,ik�ryhm�,siviilis��ty,sukupuoli,v�est�,v�kiluku, Value: 1
+Key: North West Public Health Observatory, Value: 1
+Key: Robert Bewley, Value: 1

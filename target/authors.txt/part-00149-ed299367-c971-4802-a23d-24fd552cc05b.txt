@@ -1,0 +1,2 @@
+Key: cib.hu, Value: 2
+Key: Valuation Office Agency, Value: 4

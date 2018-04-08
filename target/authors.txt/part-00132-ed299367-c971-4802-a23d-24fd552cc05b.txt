@@ -1,0 +1,2 @@
+Key: Vantaan kaupungin kuntatekniikan keskus, Value: 1
+Key: Stockholm Environment Institute, Value: 1

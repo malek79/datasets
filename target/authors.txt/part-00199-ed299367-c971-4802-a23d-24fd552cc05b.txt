@@ -1,0 +1,2 @@
+Key: The Empty Homes Agency, Value: 1
+Key: Greater London Authority - London Development Database, Value: 1

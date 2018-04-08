@@ -1,0 +1,3 @@
+Key: Stadsbeheer, Value: 2
+Key: Servizio Statistica, Value: 1
+Key: M. Boelhouwer, Value: 2

@@ -1,0 +1,5 @@
+Key: Aarhus Kommune, Teknik og Milj�, Informatikomr�det, Value: 1
+Key: Demography, Value: 6
+Key: Greenspace Information for Greater London, Value: 1
+Key: Department of Health, Value: 3
+Key: GLA Intelligence Unit, Value: 9

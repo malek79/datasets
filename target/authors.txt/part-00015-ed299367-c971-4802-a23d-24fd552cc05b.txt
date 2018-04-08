@@ -1,0 +1,2 @@
+Key: Helsingin Markkinointi Oy, Value: 5
+Key: Espoon ty�v�enopisto, Value: 1

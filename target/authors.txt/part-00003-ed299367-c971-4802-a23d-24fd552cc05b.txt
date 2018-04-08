@@ -1,0 +1,2 @@
+Key: Helsingin kaupunkiymp�rist�n toimiala / Rakennetun omaisuuden hallinta, Value: 1
+Key: siviilis��ty,sukupuoli,v�est�, Value: 1

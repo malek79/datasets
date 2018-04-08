@@ -1,0 +1,3 @@
+Key: null, Value: 65
+Key: Comune di Anzola dell'Emilia, Value: 1
+Key: Helsingin seudun ymp�rist�palvelut HSY, Value: 29

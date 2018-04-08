@@ -1,0 +1,3 @@
+Key: Helsingin kaupunginkanslia / Kaupunkitutkimus ja -tilastot, Value: 264
+Key: Department for Communities and Local Government, Value: 12
+Key: Ordnance Survey, Value: 1

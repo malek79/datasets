@@ -1,0 +1,2 @@
+Key: Espoon kaupungin kaupunkisuunnittelukeskus, Value: 4
+Key: Information Centre for Health and Social Care, Value: 1

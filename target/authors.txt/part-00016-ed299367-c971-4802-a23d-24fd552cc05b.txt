@@ -1,0 +1,5 @@
+Key: openaviationmap.org/, Value: 2
+Key: Ren� Vaartjes, Value: 4
+Key: Beh�rde f�r Umwelt und Energie (BUE), Pr�sidialabteilung (BUE), P 3 - �ffentlichkeitsarbeit und Kommunikation, P 32 - Presse und Online-Kommunikation, Value: 8
+Key: gyemszi.hu, Value: 2
+Key: See https://historicengland.org.uk/services-skills/our-planning-services/greater-london-archaeology-advisory-service/contact/, Value: 1

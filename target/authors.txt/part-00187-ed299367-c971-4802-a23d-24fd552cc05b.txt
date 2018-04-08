@@ -1,0 +1,3 @@
+Key: Zoltan Varju, Value: 2
+Key: Elise Watchorn, Alex Salki, Value: 1
+Key: Espoon kaupungin rakennusvalvontakeskus, Value: 1

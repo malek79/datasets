@@ -1,0 +1,2 @@
+Key: Helsingin kaupunkiymp�rist�n toimiala / Maank�ytt� ja kaupunkirakenne, Value: 3
+Key: Home Office, Value: 1

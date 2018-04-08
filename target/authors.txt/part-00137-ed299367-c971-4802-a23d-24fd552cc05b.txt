@@ -1,0 +1,3 @@
+Key: Jerre Sturm, Value: 2
+Key: Helsingin kasvatuksen ja koulutuksen toimiala / Perusopetus, Value: 2
+Key: Climate Just, Value: 1

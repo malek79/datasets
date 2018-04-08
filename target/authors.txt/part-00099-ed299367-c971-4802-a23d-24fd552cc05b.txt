@@ -1,0 +1,4 @@
+Key: posta.hu, Value: 2
+Key: Helsingin kulttuurin ja vapaa-ajan toimiala / Kaupunginorkesteri, Value: 1
+Key: The Health and Social Care Information Centre (HSCIC), Value: 1
+Key: GIS-diensten gemeente Rotterdam, Value: 2

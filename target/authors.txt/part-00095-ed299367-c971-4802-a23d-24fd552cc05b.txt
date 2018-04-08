@@ -1,0 +1,3 @@
+Key: Direcci�n General de Cultura y Patrimonio, Value: 7
+Key: Espoon kaupungin palveluliiketoimi / Espoo talouspalvelut , Value: 1
+Key: Vantaan kaupungin kirjasto- ja tietopalvelut, Value: 1

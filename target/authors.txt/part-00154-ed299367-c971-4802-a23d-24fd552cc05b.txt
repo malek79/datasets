@@ -1,0 +1,2 @@
+Key: Publiekszaken Rotterdam, Value: 2
+Key: Helsingin sosiaali- ja terveystoimiala, Value: 2

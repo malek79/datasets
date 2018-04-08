@@ -1,0 +1,2 @@
+Key: Gemeente Rotterdam, Value: 8
+Key: Tutte le Ripartizioni, Value: 1

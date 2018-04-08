@@ -1,0 +1,3 @@
+Key: Stadsontwikkeling, Value: 2
+Key: COS, Value: 30
+Key: Direcci�n General de Protecci�n de Consumidores y Usuarios, Value: 1

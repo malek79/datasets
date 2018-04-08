@@ -1,0 +1,9 @@
+com/spark/hive/JavaSparkHiveExample.class
+com/tcb/sources/WriteOneLinkHive.class
+com/spark/test/Main.class
+com/tcb/hive/HiveJdbcClient.class
+com/tcb/sources/InsertTableHive.class
+com/tcb/sources/ResponseTest.class
+com/spark/test/test.class
+com/tcb/sources/WriteHive.class
+com/tcb/sources/ResourcesTest.class
